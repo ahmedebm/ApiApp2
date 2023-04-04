@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:43507",
-      "sslPort": 44365
+      "applicationUrl": "http://localhost:57530",
+      "sslPort": 44386
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CalcApiEnter": {
+    "CalcApiApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "values",

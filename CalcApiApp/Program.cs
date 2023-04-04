@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CalcApiEnter
+namespace CalcApiApp
 {
     public class Program
     {
